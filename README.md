@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <a href="https://nbviewer.jupyter.org/github/lionelcub/cardio_fitness_customers_analysis_and_recommendation_for_market_targeting/blob/master/cardio_fitness_customers_analysis_and_recommendation_for_market_targeting.ipynb">Customers Analysis & Recommendation For Cardio Fitness Products.</a> 
+      <a href="https://nbviewer.jupyter.org/github/lionelcub/cardio_fitness_customers_analysis_and_recommendation_for_market_targeting/blob/master/cardio_fitness_customers_analysis_and_recommendation_for_market_targeting.ipynb">Cardio Fitness Customers Analysis & Recommendation For Market Targeting.</a> 
       (Link to Notebook Viewer)
     </td>
   </tr>
